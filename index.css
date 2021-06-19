@@ -1,0 +1,103 @@
+.seadns{
+background-color:  hsl(31, 77%, 52%);
+height: 400px;
+padding: 10px;
+
+}
+.myButton {
+  -webkit-border-radius: 22;
+  -moz-border-radius: 22;
+  border-radius: 22px;
+  text-shadow: 0px 1px 3px #666666;
+  -webkit-box-shadow: 0px 1px 0px hsl(0, 0%, 95%);
+  -moz-box-shadow: 0px 1px 0px hsl(0, 0%, 95%);
+  box-shadow: 0px 0px 0px hsl(0, 0%, 95%);
+font-family: 'Lexend Deca', sans-serif;
+  color: #E38826;
+  font-size: 15px;
+  background: hsl(0, 0%, 95%)
+;
+  padding: 10px 20px 10px 20px;
+  border: solid hsl(0, 0%, 95%)
+ 2px;
+  text-decoration: none;
+  margin-left: 50px;
+  margin-bottom:50px;
+}
+
+.myButton:hover {
+  background: #E38826;
+  text-decoration: none;
+  text-decoration-color: hsl(0, 0%, 95%);
+}
+.suvs{
+  height:400px;
+  background-color: hsl(184, 100%, 22%);
+  padding: 10px;
+
+}
+.luxury{
+  background-color: hsl(179, 100%, 13%);
+  padding: 10px;
+  font-size: 15px;
+  height: 400px;
+
+}
+.saitama {
+  -webkit-border-radius: 22;
+  -moz-border-radius: 22;
+  border-radius: 22px;
+  text-shadow: 0px 1px 3px #666666;
+  -webkit-box-shadow: 0px 1px 0px hsl(0, 0%, 95%);
+  -moz-box-shadow: 0px 1px 0px hsl(0, 0%, 95%);
+  box-shadow: 0px 0px 0px hsl(0, 0%, 95%);
+font-family: 'Lexend Deca', sans-serif;
+  color: hsl(179, 100%, 13%);
+  font-size: 15px;
+  background: hsl(0, 0%, 95%)
+;
+  padding: 10px 20px 10px 20px;
+  border: solid hsl(0, 0%, 95%)
+ 2px;
+  text-decoration: none;
+  margin-left: 50px;
+  margin-bottom:50px;
+}
+
+.saitama:hover {
+  background:  hsl(179, 100%, 13%);
+  text-decoration: none;
+  text-decoration-color: hsl(0, 0%, 95%);
+}
+.bottama {
+  -webkit-border-radius: 22;
+  -moz-border-radius: 22;
+  border-radius: 22px;
+  text-shadow: 0px 1px 3px #666666;
+  -webkit-box-shadow: 0px 1px 0px hsl(0, 0%, 95%);
+  -moz-box-shadow: 0px 1px 0px hsl(0, 0%, 95%);
+  box-shadow: 0px 0px 0px hsl(0, 0%, 95%);
+font-family: 'Lexend Deca', sans-serif;
+  color:hsl(184, 100%, 22%);
+  font-size: 15px;
+  background: hsl(0, 0%, 95%)
+;
+  padding: 10px 20px 10px 20px;
+  border: solid hsl(0, 0%, 95%)
+ 2px;
+  text-decoration: none;
+  margin-left: 50px;
+  margin-bottom:50px;
+}
+
+.bottama:hover {
+  background:hsl(184, 100%, 22%);
+  text-decoration: none;
+  text-decoration-color: hsl(0, 0%, 95%);
+}
+.ranz{
+  margin-bottom:80px;
+}
+.rambo{
+  height: 100px;
+}
